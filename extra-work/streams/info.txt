@@ -1,0 +1,24 @@
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
+Hello World
+Welcome to Node.js Streams
+This is the end of the stream.
